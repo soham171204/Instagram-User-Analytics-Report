@@ -12,3 +12,6 @@ The project is divided into two sections:
 2.	Inserted data into the tables.
 3.	Designed and executed SQL queries to answer specific questions.
 4.	Compiled results into a report with insights.
+
+## data set of users
+- <a href="https://docs.google.com/document/d/1-WhNRX1iYJIz7e5l28DMPWgsPklpE_w6/edit?tab=t.0">dataset</a>
